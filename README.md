@@ -245,7 +245,7 @@ docs = [
 ]
 docs[0]
 ```
-```json
+```
 {
     '_index': 'vector_sample',
     '_source': {
